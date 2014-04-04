@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Liquidacion ID="F49T43">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>43</TipoDTE>
+				<Folio>49</Folio>
+				<FchEmis>2012-04-23</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76510420-3</RUTEmisor>
+				<RznSoc>PUNTO TICKET S.A.</RznSoc>
+				<GiroEmis>Venta y Distribución de Boletos Para Eventos, Comercio Electrónico de Productos</GiroEmis>
+				<Telefono>5955800</Telefono>
+				<Acteco>749990</Acteco>
+				<DirOrigen>Rosario Norte 555, Of. 1104</DirOrigen>
+				<CmnaOrigen>LAS CONDES</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>77574330-1</RUTRecep>
+				<RznSocRecep>SERVICIOS Y TECNOLOGIA LIMITADA</RznSocRecep>
+				<GiroRecep>COMPRA Y VENTA DE EQUIPOS ELECTRONICOS Y</GiroRecep>
+				<DirRecep>Gran Avenida J. M. Carrera #5018 OF.:308</DirRecep>
+				<CmnaRecep>SAN MIGUEL</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>345711</MntNeto>
+				<MntExe>127626</MntExe>
+				<TasaIVA>19</TasaIVA>
+				<IVA>65685</IVA>
+				<MntTotal>539022</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>0</VlrCodigo>
+			</CdgItem>
+			<TpoDocLiq>30</TpoDocLiq>
+			<NmbItem>NETO FACTURAS</NmbItem>
+			<QtyItem>5</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<MontoItem>293227</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>0</VlrCodigo>
+			</CdgItem>
+			<TpoDocLiq>30</TpoDocLiq>
+			<IndExe>1</IndExe>
+			<NmbItem>EXENTO FACTURAS</NmbItem>
+			<QtyItem>4</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<MontoItem>77974</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>3</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>0</VlrCodigo>
+			</CdgItem>
+			<TpoDocLiq>33</TpoDocLiq>
+			<NmbItem>NETO FACTURAS ELECTRONICAS</NmbItem>
+			<QtyItem>22</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<MontoItem>52484</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>4</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>0</VlrCodigo>
+			</CdgItem>
+			<TpoDocLiq>33</TpoDocLiq>
+			<IndExe>1</IndExe>
+			<NmbItem>EXENTO FACTURAS ELECTRONICAS </NmbItem>
+			<QtyItem>17</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<MontoItem>49652</MontoItem>
+		</Detalle>
+	</Liquidacion>
+</DTE>

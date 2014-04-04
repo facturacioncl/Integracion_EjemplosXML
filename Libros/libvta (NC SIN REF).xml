@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<LibroCompraVenta version="1.0">
+  <EnvioLibro ID="LV042008">
+    <Caratula>
+      <RutEmisorLibro>1-9</RutEmisorLibro>
+      <RutEnvia>2-7</RutEnvia>
+      <PeriodoTributario>2008-04</PeriodoTributario>
+      <FchResol>2007-10-30</FchResol>
+      <NroResol>125</NroResol>
+      <TipoOperacion>VENTA</TipoOperacion>
+      <TipoLibro>MENSUAL</TipoLibro>
+      <TipoEnvio>TOTAL</TipoEnvio>
+    </Caratula>
+    <ResumenPeriodo>
+      <TotalesPeriodo>
+        <TpoDoc>30</TpoDoc>
+        <TotDoc>2</TotDoc>
+        <TotMntExe>0</TotMntExe>
+        <TotMntNeto>26114</TotMntNeto>
+        <TotMntIVA>4961</TotMntIVA>
+        <TotMntTotal>31075</TotMntTotal>
+      </TotalesPeriodo>
+      <TotalesPeriodo>
+        <TpoDoc>60</TpoDoc>
+        <TotDoc>1</TotDoc>
+        <TotMntExe>0</TotMntExe>
+        <TotMntNeto>12634</TotMntNeto>
+        <TotMntIVA>2400</TotMntIVA>
+        <TotMntTotal>15034</TotMntTotal>
+      </TotalesPeriodo>
+      <TotalesPeriodo>
+        <TpoDoc>35</TpoDoc>
+        <TotDoc>50</TotDoc>
+        <TotMntExe>0</TotMntExe>
+        <TotMntNeto>26114</TotMntNeto>
+        <TotMntIVA>4961</TotMntIVA>
+        <TotMntTotal>31075</TotMntTotal>
+      </TotalesPeriodo>
+    </ResumenPeriodo>
+    <Detalle>
+      <TpoDoc>30</TpoDoc>
+      <NroDoc>29</NroDoc>
+      <TasaImp>19</TasaImp>
+      <FchDoc>2008-04-30</FchDoc>
+      <RUTDoc>96932500-4</RUTDoc>
+      <RznSoc>Razón Social S. A.</RznSoc>
+      <MntNeto>12634</MntNeto>
+      <MntIVA>2400</MntIVA>
+      <MntTotal>15034</MntTotal>
+    </Detalle>
+    <Detalle>
+      <TpoDoc>30</TpoDoc>
+      <NroDoc>30</NroDoc>
+      <TasaImp>19</TasaImp>
+      <FchDoc>2008-04-30</FchDoc>
+      <RUTDoc>96932500-4</RUTDoc>
+      <RznSoc>Razón Social S. A.</RznSoc>
+      <MntNeto>13480</MntNeto>
+      <MntIVA>2561</MntIVA>
+      <MntTotal>16041</MntTotal>
+    </Detalle>
+    <Detalle>
+      <TpoDoc>60</TpoDoc>
+      <NroDoc>2</NroDoc>
+      <TasaImp>19</TasaImp>
+      <FchDoc>2008-04-30</FchDoc>
+      <RUTDoc>96932500-4</RUTDoc>
+      <RznSoc>Razón Social S. A.</RznSoc>
+      <MntNeto>12634</MntNeto>
+      <MntIVA>2400</MntIVA>
+      <MntTotal>15034</MntTotal>
+    </Detalle>
+  </EnvioLibro>
+</LibroCompraVenta>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Documento ID="F14T46">
+			<Caratula>
+		<RutEmisorLibro>77594330-0</RutEmisorLibro>
+		<RutEnvia>12263176-1</RutEnvia>
+		<PeriodoTributario>2012-02</PeriodoTributario>
+		<FchResol>2008-10-03</FchResol>
+		<NroResol>119</NroResol>
+		<TipoOperacion>COMPRA</TipoOperacion>
+		<TipoLibro>MENSUAL</TipoLibro>
+		<TipoEnvio>TOTAL</TipoEnvio>
+	</Caratula>
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>46</TipoDTE>
+				<Folio>14</Folio>
+				<FchEmis>2012-02-10</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>78383450-2</RUTEmisor>
+				<RznSoc>DRISCOLLS DE CHILE S.A.</RznSoc>
+				<GiroEmis>Venta de Plantas, Maquinarias, Control de Calidad, Transporte, Exportación</GiroEmis>
+				<Telefono>7205116</Telefono>
+				<Acteco>512130</Acteco>
+				<DirOrigen>Av. Apoquindo 4775,  Of. 301</DirOrigen>
+				<CmnaOrigen>LAS CONDES</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>77574330-1</RUTRecep>
+				<RznSocRecep>SERVICIOS Y TECNOLOGIA LIMITADA</RznSocRecep>
+				<GiroRecep>COMPRA Y VENTA DE EQUIPOS ELECTRONICOS Y</GiroRecep>
+				<DirRecep>Gran Avenida J. M. Carrera #5018 OF.:308</DirRecep>
+				<CmnaRecep>SAN MIGUEL</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>196016</MntNeto>
+				<MntExe>0</MntExe>
+				<TasaIVA>19</TasaIVA>
+				<IVA>37243</IVA>
+				<ImptoReten>
+					<TipoImp>48</TipoImp>
+					<TasaImp>14</TasaImp>
+					<MontoImp>27442</MontoImp>
+				</ImptoReten>
+				<MntTotal>205817</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>CPCS</TpoCodigo>
+				<VlrCodigo>4801</VlrCodigo>
+			</CdgItem>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>RET1</VlrCodigo>
+			</CdgItem>
+			<Retenedor>
+				<IndAgente>R</IndAgente>
+			</Retenedor>
+			<NmbItem>Frambuesa Fresca</NmbItem>
+			<QtyItem>513</QtyItem>
+			<UnmdItem>KG</UnmdItem>
+			<PrcItem>49</PrcItem>
+			<CodImpAdic>48</CodImpAdic>
+			<MontoItem>25137</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>CPCS</TpoCodigo>
+				<VlrCodigo>4812</VlrCodigo>
+			</CdgItem>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>RET2</VlrCodigo>
+			</CdgItem>
+			<Retenedor>
+				<IndAgente>R</IndAgente>
+			</Retenedor>
+			<NmbItem>Servicio de Maquila</NmbItem>
+			<QtyItem>1</QtyItem>
+			<PrcItem>170879</PrcItem>
+			<CodImpAdic>48</CodImpAdic>
+			<MontoItem>170879</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>SET</TpoDocRef>
+			<FolioRef>0</FolioRef>
+			<FchRef>2012-02-10</FchRef>
+			<RazonRef>CASO 126084-1</RazonRef>
+		</Referencia>
+	</Documento>
+</DTE>

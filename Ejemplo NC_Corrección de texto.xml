@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Documento ID="F1T61">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>61</TipoDTE>
+				<Folio>1</Folio>
+				<FchEmis>2008-04-09</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76000555-0</RUTEmisor>
+				<RznSoc>Roberto Gomez</RznSoc>
+				<GiroEmis>Importación </GiroEmis>
+				<Acteco>515009</Acteco>
+				<DirOrigen>Pedro de Valdivia 25</DirOrigen>
+				<CmnaOrigen>Providencia</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>77520369-0</RUTRecep>
+				<RznSocRecep>SERVICIOS GRAFICOS</RznSocRecep>
+				<GiroRecep>GIRO CORRECTO</GiroRecep>
+				<DirRecep>DEPARTAMENTAL 250</DirRecep>
+				<CmnaRecep>SAN JOAQUIN</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>0</MntNeto>
+				<TasaIVA>0</TasaIVA>
+				<IVA>0</IVA>
+				<MntTotal>0</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>CA</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Donde dice GIRO debe decir GIRO CORRECTO</NmbItem>
+			<QtyItem>1</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>0</PrcItem>
+			<MontoItem>0</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>33</TpoDocRef>
+			<FolioRef>1</FolioRef>
+			<FchRef>2008-04-09</FchRef>
+			<CodRef>2</CodRef>
+			<RazonRef>Corrección de Giro</RazonRef>
+		</Referencia>
+		<Adicional>
+			<NodosA>
+				<A1></A1>
+				<A2></A2>
+				<A3>1</A3>
+				<A4></A4>
+				<A5></A5>
+				<A6></A6>
+			</NodosA>
+		</Adicional>
+	</Documento>
+</DTE>

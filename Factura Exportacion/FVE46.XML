@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones>
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>110</TipoDTE>
+				<Folio>47</Folio>
+				<FchEmis>2008-11-29</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>59133940-0</RUTEmisor>
+				<RznSoc>HARS &amp; HAGEBAUER LIMITADA. AGENCIA EN CHILE</RznSoc>
+				<GiroEmis>Comercializacion y Exportacion de productos Agricolas</GiroEmis>
+				<Acteco>511010</Acteco>
+				<DirOrigen>Estoril #50, Oficina 720</DirOrigen>
+				<CmnaOrigen>Las Condes</CmnaOrigen>
+				<CiudadOrigen>Santiago</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<CdgIntRecep>135600-3</CdgIntRecep>
+				<RznSocRecep>KEELINGS MULTIPLES</RznSocRecep>
+				<Extranjero>
+					<Nacionalidad>506</Nacionalidad>
+				</Extranjero>
+				<GiroRecep>Importadora</GiroRecep>
+				<DirRecep>ROSLIN ST. MARGARET'S CO.</DirRecep>
+				<CmnaRecep>DUBLIN</CmnaRecep>
+				<CiudadRecep>DUBLIN</CiudadRecep>
+			</Receptor>
+			<Transporte>
+				<Aduana>
+					<CodModVenta>1</CodModVenta>
+					<CodClauVenta>1</CodClauVenta>
+					<TotClauVenta>26948</TotClauVenta>
+					<CodPtoEmbarque>905</CodPtoEmbarque>
+					<IdAdicPtoEmb>VALPARAISO</IdAdicPtoEmb>
+					<CodPtoDesemb>699</CodPtoDesemb>
+					<IdAdicPtoDesemb>DUBLIN</IdAdicPtoDesemb>
+					<TotBultos>1</TotBultos>
+					<TipoBultos>
+						<CodTpoBultos>22</CodTpoBultos>
+						<CantBultos>528</CantBultos>
+					</TipoBultos>
+					<MntFlete>220</MntFlete>
+					<MntSeguro>16</MntSeguro>
+					<CodPaisRecep>997</CodPaisRecep>
+					<CodPaisDestin>506</CodPaisDestin>
+				</Aduana>
+			</Transporte>
+			<Totales>
+				<TpoMoneda>DOLAR USA</TpoMoneda>
+				<MntExe>26712</MntExe>
+				<MntTotal>26712</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>PESO</TpoMoneda>
+				<TpoCambio>659.43</TpoCambio>
+				<MntExeOtrMnda>17614694</MntExeOtrMnda>
+				<MntTotOtrMnda>17614694</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>1104</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>FRESH CHERRIES VARIERTY RAINIER</NmbItem>
+			<QtyItem>24</QtyItem>
+			<UnmdItem>CART</UnmdItem>
+			<PrcItem>70</PrcItem>
+			<MontoItem>1680</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>1104</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>FRESH CHERRIES VARIERTY RAINIER</NmbItem>
+			<QtyItem>24</QtyItem>
+			<UnmdItem>CART</UnmdItem>
+			<PrcItem>43</PrcItem>
+			<MontoItem>1032</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>3</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>1104</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>FRESH CHERRIES VARIERTY RAINIER</NmbItem>
+			<QtyItem>80</QtyItem>
+			<UnmdItem>CART</UnmdItem>
+			<PrcItem>50</PrcItem>
+			<MontoItem>4000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>4</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>1104</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>FRESH CHERRIES VARIERTY RAINIER</NmbItem>
+			<QtyItem>80</QtyItem>
+			<UnmdItem>CART</UnmdItem>
+			<PrcItem>50</PrcItem>
+			<MontoItem>4000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>5</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>1104</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>FRESH CHERRIES VARIERTY RAINIER</NmbItem>
+			<QtyItem>80</QtyItem>
+			<UnmdItem>CART</UnmdItem>
+			<PrcItem>50</PrcItem>
+			<MontoItem>4000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>6</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>1104</VlrCodigo>
+			</CdgItem>
+			<NmbItem>1</NmbItem>
+			<QtyItem>80</QtyItem>
+			<UnmdItem>CART</UnmdItem>
+			<PrcItem>50</PrcItem>
+			<MontoItem>4000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>7</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>1104</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>FRESH CHERRIES VARIERTY RAINIER</NmbItem>
+			<QtyItem>80</QtyItem>
+			<UnmdItem>CART</UnmdItem>
+			<PrcItem>50</PrcItem>
+			<MontoItem>4000</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>8</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>1104</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>FRESH CHERRIES VARIERTY RAINIER</NmbItem>
+			<QtyItem>80</QtyItem>
+			<UnmdItem>CART</UnmdItem>
+			<PrcItem>50</PrcItem>
+			<MontoItem>4000</MontoItem>
+		</Detalle>
+	</Exportaciones>
+</DTE>

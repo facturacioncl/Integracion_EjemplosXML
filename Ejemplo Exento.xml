@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Documento ID="F1T34">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>34</TipoDTE>
+				<Folio>1</Folio>
+				<FchEmis>2008-04-09</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76000555-0</RUTEmisor>
+				<RznSoc>Roberto Gomez</RznSoc>
+				<GiroEmis>Importación </GiroEmis>
+				<Acteco>515009</Acteco>
+				<DirOrigen>Pedro de Valdivia 25</DirOrigen>
+				<CmnaOrigen>Providencia</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>12312312-3</RUTRecep>
+				<CdgIntRecep>123123123</CdgIntRecep>
+				<RznSocRecep>SERVICIOS GRAFICOS</RznSocRecep>
+				<GiroRecep>SERVICIO</GiroRecep>
+				<DirRecep>DEPARTAMENTAL 250</DirRecep>
+				<CmnaRecep>SAN JOAQUIN</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntExe>500000</MntExe>
+				<MntTotal>500000</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>PE</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>PRODUCTO EXENTO</NmbItem>
+			<QtyItem>5000</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>100</PrcItem>
+			<MontoItem>500000</MontoItem>
+		</Detalle>
+	</Documento>
+</DTE>

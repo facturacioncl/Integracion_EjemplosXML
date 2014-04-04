@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<DTE version="1.0">
+	<Documento ID="R76022603-3T52F10">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>52</TipoDTE>
+				<Folio>10</Folio>
+				<FchEmis>2011-07-25</FchEmis>
+				<IndTraslado>1</IndTraslado>
+				<FmaPago>1</FmaPago>
+				<FchVenc>2011-07-25</FchVenc>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76022603-3</RUTEmisor>
+				<RznSoc>PRUEBAS_FE</RznSoc>
+				<GiroEmis>Comercializacion de Alimentos para Animales y Humanos</GiroEmis>
+				<Acteco>1234</Acteco>
+				<DirOrigen>Avda el bosque norte 0123, Piso 10, of 1004</DirOrigen>
+				<CmnaOrigen>Las Condes</CmnaOrigen>
+				<CiudadOrigen>Santiago</CiudadOrigen>
+				<CdgVendedor>Alejandro Sleman</CdgVendedor>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>12264450-2</RUTRecep>
+				<RznSocRecep>ALEJANDRO SLEMAN CARMONO</RznSocRecep>
+				<GiroRecep>GIRO CLIENTE</GiroRecep>
+				<Contacto>585458524</Contacto>
+				<DirRecep>LAS ENCINAS 75</DirRecep>
+				<CmnaRecep>PUERTO MONTT</CmnaRecep>
+				<CiudadRecep>PUERTO MONTT</CiudadRecep>
+			</Receptor>
+			<Transporte>
+				<Patente>XP-3265</Patente>
+				<RUTTrans>2-7</RUTTrans>
+				<Chofer>
+					<RUTChofer>6-K</RUTChofer>
+					<NombreChofer>Juan Perez</NombreChofer>
+				</Chofer>
+				<DirDest>LAS ENCINAS 75</DirDest>
+				<CmnaDest>PUERTO MONTT</CmnaDest>
+				<CiudadDest>PUERTO MONTT</CiudadDest>
+			</Transporte>
+			<Totales>
+				<MntNeto>14239</MntNeto>
+				<TasaIVA>19</TasaIVA>
+				<IVA>2705</IVA>
+				<ImptoReten>
+					<TipoImp>18</TipoImp>
+					<TasaImp>5</TasaImp>
+					<MontoImp>712</MontoImp>
+				</ImptoReten>
+				<MntTotal>17656</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>CCI005</VlrCodigo>
+			</CdgItem>
+			<NmbItem>PUNTA CHULETA DELANTERA CERDO IMPORTADO</NmbItem>
+			<DscItem>PUNTA CHULETA DELANTERA CERDO IMPORTADO,</DscItem>
+			<QtyItem>1</QtyItem>
+			<UnmdItem>KGS</UnmdItem>
+			<PrcItem>6564</PrcItem>
+			<CodImpAdic>18</CodImpAdic>
+			<MontoItem>6564</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>CCI001</VlrCodigo>
+			</CdgItem>
+			<NmbItem>LOMO CENTRO CERDO IMPORTADO</NmbItem>
+			<DscItem>LOMO CENTRO CERDO IMPORTADO,</DscItem>
+			<QtyItem>1</QtyItem>
+			<UnmdItem>KGS</UnmdItem>
+			<PrcItem>7675</PrcItem>
+			<CodImpAdic>18</CodImpAdic>
+			<MontoItem>7675</MontoItem>
+		</Detalle>
+	</Documento>
+	<Adicional>
+		<NodosA>
+			<A1 />
+			<A2>1</A2>
+			<A3>1,000000</A3>
+			<A4>CONTADO EFECTIVO</A4>
+			<A5>17656,0</A5>
+			<A6 />
+			<A7>CLP</A7>
+		</NodosA>
+	</Adicional>
+</DTE>

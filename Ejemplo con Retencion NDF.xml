@@ -1,0 +1,61 @@
+<DTE version="1.0">
+	<Documento ID="F1004T46">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>46</TipoDTE>
+				<Folio>1004</Folio>
+				<FchEmis>2012-04-02</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>78383450-2</RUTEmisor>
+				<RznSoc>DRISCOLLS DE CHILE S.A.</RznSoc>
+				<GiroEmis>Venta de Plantas, Maquinarias, Control de Calidad, Transporte, Exportación</GiroEmis>
+				<Telefono>7205116</Telefono>
+				<Acteco>512130</Acteco>
+				<DirOrigen>Av. Apoquindo 4775,  Of. 301</DirOrigen>
+				<CmnaOrigen>LAS CONDES</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>7422045-2</RUTRecep>
+				<RznSocRecep>ALVARO GATICA PEREZ</RznSocRecep>
+				<GiroRecep>COMERCIAL</GiroRecep>
+				<DirRecep>PARCELA 43 COLONIA BDO. O&apos;HIGGINS</DirRecep>
+				<CmnaRecep>NUBLE</CmnaRecep>
+				<CiudadRecep>CHILLAN</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>11000</MntNeto>
+				<MntExe>0</MntExe>
+				<TasaIVA>19</TasaIVA>
+				<IVA>2090</IVA>
+				<ImptoReten>
+					<TipoImp>481</TipoImp>
+					<TasaImp>19</TasaImp>
+					<MontoImp>2090</MontoImp>
+				</ImptoReten>
+				<MntTotal>11000</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>CPCS</TpoCodigo>
+				<VlrCodigo>4803</VlrCodigo>
+			</CdgItem>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>DSM00035</VlrCodigo>
+			</CdgItem>
+			<Retenedor>
+				<IndAgente>R</IndAgente>
+			</Retenedor>
+			<NmbItem>DSM00035</NmbItem>
+			<QtyItem>1</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>11000</PrcItem>
+			<CodImpAdic>481</CodImpAdic>
+			<MontoItem>11000</MontoItem>
+		</Detalle>
+	</Documento>
+</DTE>

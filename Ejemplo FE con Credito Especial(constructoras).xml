@@ -1,0 +1,48 @@
+<DTE version="1.0">
+	<Documento ID="F9500T33">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>9500</Folio>
+				<FchEmis>2009-02-26</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>89853600-9</RUTEmisor>
+				<RznSoc>CONSTRUCTORA  INGEVEC S.A.</RznSoc>
+				<GiroEmis>Construcción de Edificios Completos o de Partes de Edificios</GiroEmis>
+				<Telefono>6743800</Telefono>
+				<Acteco>452010</Acteco>
+				<DirOrigen>Av. Apoquindo # 4775 Piso 19</DirOrigen>
+				<CmnaOrigen>LAS CONDES</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>96525320-3</RUTRecep>
+				<RznSocRecep>CONSTRUCTORA E INMOBILIARIA VIARSA LTDA.</RznSocRecep>
+				<GiroRecep>COMERCIAL</GiroRecep>
+				<DirRecep>AVDA.RICARDO CUMMING Nº1450</DirRecep>
+				<CmnaRecep>SANTIAGO</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>475652643</MntNeto>
+				<TasaIVA>19</TasaIVA>
+				<IVA>90374002</IVA>
+				<CredEC>58743101</CredEC>
+				<MntTotal>507283544</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>0</VlrCodigo>
+			</CdgItem>
+			<NmbItem>E.P.Nº 13, CONTRATO CONSTRUCCION, UF 24.051,05 IVA INCLUIDO, EDIF.ARGOMEDO</NmbItem>
+			<QtyItem>1</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>475652643</PrcItem>
+			<MontoItem>475652643</MontoItem>
+		</Detalle>
+	</Documento>
+</DTE>

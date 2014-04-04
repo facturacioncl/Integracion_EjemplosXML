@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Documento ID="F1T33">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>1</Folio>
+				<FchEmis>2008-04-09</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76000555-0</RUTEmisor>
+				<RznSoc>Roberto Gomez</RznSoc>
+				<GiroEmis>Importación </GiroEmis>
+				<Acteco>515009</Acteco>
+				<DirOrigen>Pedro de Valdivia 25</DirOrigen>
+				<CmnaOrigen>Providencia</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>15915915-9</RUTRecep>
+				<CdgIntRecep>15915915</CdgIntRecep>
+				<RznSocRecep>SERVICIOS GRAFICOS</RznSocRecep>
+				<GiroRecep>SERVICIO</GiroRecep>
+				<DirRecep>DEPARTAMENTAL 250</DirRecep>
+				<CmnaRecep>SAN JOAQUIN</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>2383360</MntNeto>
+				<TasaIVA>19</TasaIVA>
+				<IVA>452838</IVA>
+				<MntTotal>2836198</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>0</VlrCodigo>
+			</CdgItem>
+			<NmbItem>CHAMPION KATT SD 20 KG</NmbItem>
+			<DscItem>D1=20.00|D2=00.00|D3=02.00|KG=200</DscItem>
+			<QtyItem>4000</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>760</PrcItem>
+			<DescuentoPct>22</DescuentoPct>
+			<DescuentoMonto>656640</DescuentoMonto>
+			<MontoItem>2383360</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>801</TpoDocRef>
+			<FolioRef>1</FolioRef>
+			<FchRef>2008-04-09</FchRef>
+			<RazonRef>ORDEN DE COMPRA</RazonRef>
+		</Referencia>
+		<Adicional>
+			<NodosA>
+				<A1>VENCIMIENTO</A1>
+				<A2>FORMA PAGO</A2>
+				<A3>VENDEDOR</A3>
+				<A4>SUCURSAL</A4>
+				<A5>DESPACHO</A5>
+				<A6>OBSERVACIONES</A6>
+				<A7></A7>
+				<A8></A8>
+				<A9></A9>
+				<A10></A10>
+				<A11></A11>
+				<A12></A12>
+				<A13></A13>
+				<A14></A14>
+				<A15></A15>
+				<A16></A16>
+				<A17></A17>
+				<A18></A18>
+				<A19></A19>
+				<A20></A20>
+			</NodosA>
+		</Adicional>
+	</Documento>
+</DTE>

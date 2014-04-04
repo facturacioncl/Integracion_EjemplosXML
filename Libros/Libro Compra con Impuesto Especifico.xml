@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<LibroCompraVenta>
+<EnvioLibro ID="LIBRO-COMPRA201202_ID83">
+	<Caratula>
+		<RutEmisorLibro>77594330-0</RutEmisorLibro>
+		<RutEnvia>12263176-1</RutEnvia>
+		<PeriodoTributario>2012-02</PeriodoTributario>
+		<FchResol>2008-10-03</FchResol>
+		<NroResol>119</NroResol>
+		<TipoOperacion>COMPRA</TipoOperacion>
+		<TipoLibro>MENSUAL</TipoLibro>
+		<TipoEnvio>TOTAL</TipoEnvio>
+	</Caratula>
+	<ResumenPeriodo>
+		<TotalesPeriodo>
+			<TpoDoc>33</TpoDoc>
+			<TotDoc>3</TotDoc>
+			<TotMntExe>936872</TotMntExe>
+			<TotMntNeto>10394369</TotMntNeto>
+			<TotMntIVA>1974930</TotMntIVA>
+			<TotImpSinCredito>420914</TotImpSinCredito>
+			<TotMntTotal>13727085</TotMntTotal>
+		</TotalesPeriodo>
+	</ResumenPeriodo>
+	<Detalle>
+		<TpoDoc>33</TpoDoc>
+		<NroDoc>1242956</NroDoc>
+		<TasaImp>19</TasaImp>
+		<NumInt>3714</NumInt>
+		<FchDoc>2012-02-02</FchDoc>
+		<RUTDoc>96756430-3</RUTDoc>
+		<RznSoc>CHILEXPRESS S.A</RznSoc>
+		<MntNeto>89629</MntNeto>
+		<MntIVA>17030</MntIVA>
+		<MntTotal>106659</MntTotal>
+	</Detalle>
+	<Detalle>
+		<TpoDoc>33</TpoDoc>
+		<NroDoc>410797</NroDoc>
+		<TasaImp>19</TasaImp>
+		<NumInt>3973</NumInt>
+		<FchDoc>2012-02-28</FchDoc>
+		<RUTDoc>99520000-7</RUTDoc>
+		<RznSoc>COMPAÑIA DE PETROLEOS DE CHILE COPEC S.A.</RznSoc>
+		<MntExe>258276</MntExe>
+		<MntNeto>2830764</MntNeto>
+		<MntIVA>537845</MntIVA>
+		<MntSinCred>116037</MntSinCred>
+		<MntTotal>3742922</MntTotal>
+	</Detalle>
+	<Detalle>
+		<TpoDoc>33</TpoDoc>
+		<NroDoc>402628</NroDoc>
+		<TasaImp>19</TasaImp>
+		<NumInt>3974</NumInt>
+		<FchDoc>2012-02-15</FchDoc>
+		<RUTDoc>99520000-7</RUTDoc>
+		<RznSoc>COMPAÑIA DE PETROLEOS DE CHILE COPEC S.A.</RznSoc>
+		<MntExe>678596</MntExe>
+		<MntNeto>7473976</MntNeto>
+		<MntIVA>1420055</MntIVA>
+		<MntSinCred>304877</MntSinCred>
+		<MntTotal>9877504</MntTotal>
+	</Detalle>
+</EnvioLibro>
+</LibroCompraVenta>

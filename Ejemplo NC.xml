@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Documento ID="F1T61">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>61</TipoDTE>
+				<Folio>1</Folio>
+				<FchEmis>2008-04-09</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76000555-0</RUTEmisor>
+				<RznSoc>Roberto Gomez</RznSoc>
+				<GiroEmis>Importación </GiroEmis>
+				<Acteco>515009</Acteco>
+				<DirOrigen>Pedro de Valdivia 25</DirOrigen>
+				<CmnaOrigen>Providencia</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>77520369-0</RUTRecep>
+				<RznSocRecep>SERVICIOS GRAFICOS</RznSocRecep>
+				<GiroRecep>SERVICIO</GiroRecep>
+				<DirRecep>DEPARTAMENTAL 250</DirRecep>
+				<CmnaRecep>SAN JOAQUIN</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>948422</MntNeto>
+				<TasaIVA>19</TasaIVA>
+				<IVA>180200</IVA>
+				<MntTotal>1128622</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>CA</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Cajón AFECTO</NmbItem>
+			<QtyItem>166</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>3357</PrcItem>
+			<MontoItem>557262</MontoItem>
+		</Detalle>
+		<Detalle>
+			<NroLinDet>2</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>RA</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Relleno AFECTO</NmbItem>
+			<QtyItem>70</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>5588</PrcItem>
+			<MontoItem>391160</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>33</TpoDocRef>
+			<FolioRef>1</FolioRef>
+			<FchRef>2008-04-09</FchRef>
+			<CodRef>1</CodRef>
+			<RazonRef>Anula Documento de Referencia</RazonRef>
+		</Referencia>
+		<Adicional>
+<NodosA>
+<A1></A1>
+<A2></A2>
+<A3>1</A3>
+<A4></A4>
+<A5></A5>
+<A6></A6>
+</NodosA>
+</Adicional>
+	</Documento>
+</DTE>

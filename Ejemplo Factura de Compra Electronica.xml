@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Documento ID="F1000T46">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>1000</Folio>
+				<FchEmis>2010-06-08</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>96794440-8</RUTEmisor>
+				<RznSoc>HEAVENWARD ASCENSORES S.A</RznSoc>
+				<GiroEmis>Ingeniería</GiroEmis>
+				<Telefono>7318000</Telefono>
+				<Acteco>50036</Acteco>
+				<DirOrigen>Av. Tajamar 481 Torre Norte Of. 1001</DirOrigen>
+				<CmnaOrigen>LAS CONDES</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>7348710-2</RUTRecep>
+				<RznSocRecep>JORGE OROSTICA RAMIREZ</RznSocRecep>
+				<GiroRecep>COMERCIAL</GiroRecep>
+				<DirRecep>SANTA GEMITA Nº 322, VILLA LAS TORRES.</DirRecep>
+				<CmnaRecep>PUDAHUEL</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>34242</MntNeto>
+			    <MntIVA>0</MntIVA>
+			    <IVANoRec>
+				<CodIVANoRec>2</CodIVANoRec>
+				<MntIVANoRec>34242</MntIVANoRec>
+			    </IVANoRec>
+			<MntTotal>517650</MntTotal>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>CPCS</TpoCodigo>
+				<VlrCodigo>4100</VlrCodigo>
+			</CdgItem>
+			<NmbItem>BAJADA DE PLOMOS Y CH POLIPEÑA SC-10-147</NmbItem>
+			<QtyItem>1</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>34242</PrcItem>
+			<CodImpAdic>41</CodImpAdic>
+			<MontoItem>34242</MontoItem>
+		</Detalle>
+	</Documento>
+</DTE>

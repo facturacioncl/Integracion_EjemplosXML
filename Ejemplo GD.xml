@@ -1,0 +1,325 @@
+<DTE version="1.0">
+	<Documento ID="F102717T52">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>52</TipoDTE>
+				<Folio>102717</Folio>
+				<FchEmis>2007-09-25</FchEmis>
+				<TipoDespacho>2</TipoDespacho>
+				<IndTraslado>1</IndTraslado>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76000555-0</RUTEmisor>
+				<RznSoc>Roberto Gomez</RznSoc>
+				<GiroEmis>Importación </GiroEmis>
+				<Acteco>515009</Acteco>
+				<DirOrigen>Pedro de Valdivia 25</DirOrigen>
+				<CmnaOrigen>Providencia</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>15915915-9</RUTRecep>
+				<RznSocRecep>SERVICIOS GRAFICOS</RznSocRecep>
+				<GiroRecep>SERVICIO</GiroRecep>
+				<DirRecep>DEPARTAMENTAL 250</DirRecep>
+				<CmnaRecep>SAN JOAQUIN</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>948422</MntNeto>
+				<TasaIVA>19</TasaIVA>
+				<IVA>180200</IVA>
+				<MntTotal>1128622</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+  <NroLinDet>1</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000168</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Adulto C&amp;C 10 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=50</DscItem> 
+  <QtyItem>50</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>10571.000000</PrcItem> 
+  <MontoItem>528550</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>2</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000169</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Adulto C&amp;C 14 X 1,5 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=42</DscItem> 
+  <QtyItem>42</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>27720.000000</PrcItem> 
+  <MontoItem>1164240</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>3</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000171</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Adulto C&amp;C 15 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=45</DscItem> 
+  <QtyItem>45</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>14702.000000</PrcItem> 
+  <MontoItem>661590</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>4</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000174</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Adulto C&amp;C 18 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=288</DscItem> 
+  <QtyItem>288</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>14810.000000</PrcItem> 
+  <MontoItem>4265280</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>5</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000179</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Adulto C&amp;V 15 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=105</DscItem> 
+  <QtyItem>105</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>14702.000000</PrcItem> 
+  <MontoItem>1543710</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>6</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000181</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Adulto C&amp;V 18 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=180</DscItem> 
+  <QtyItem>180</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>14810.000000</PrcItem> 
+  <MontoItem>2665800</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>7</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000183</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Adulto PA&amp;V 10 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=10</DscItem> 
+  <QtyItem>10</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>10571.000000</PrcItem> 
+  <MontoItem>105710</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>8</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000186</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Adulto PA&amp;V 18 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=36</DscItem> 
+  <QtyItem>36</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>14810.000000</PrcItem> 
+  <MontoItem>533160</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>9</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000196</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Cachorro 18 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=306</DscItem> 
+  <QtyItem>306</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>21206.000000</PrcItem> 
+  <MontoItem>6489036</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>10</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000197</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Cachorro 6 x 3 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=36</DscItem> 
+  <QtyItem>36</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>27938.000000</PrcItem> 
+  <MontoItem>1005768</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>11</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000198</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Champion Dog Cachorro 8 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=16</DscItem> 
+  <QtyItem>16</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>10912.000000</PrcItem> 
+  <MontoItem>174592</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>12</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000185</VlrCodigo> 
+  </CdgItem>
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=10</DscItem> 
+  <QtyItem>10</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>14702.000000</PrcItem> 
+  <MontoItem>147020</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>13</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000285</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Sabrokan Adulto 10 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=220</DscItem> 
+  <QtyItem>220</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>6292.000000</PrcItem> 
+  <MontoItem>1384240</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>14</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000286</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Sabrokan Adulto 18 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=234</DscItem> 
+  <QtyItem>234</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>10514.000000</PrcItem> 
+  <MontoItem>2460276</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>15</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000288</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Sabrokan Adulto 30 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=600</DscItem> 
+  <QtyItem>600</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>16470.000000</PrcItem> 
+  <MontoItem>9882000</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>16</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000292</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Sabrokan Cachorro 8 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=160</DscItem> 
+  <QtyItem>160</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>7728.000000</PrcItem> 
+  <MontoItem>1236480</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>17</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000245</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Cubidog 10 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=30</DscItem> 
+  <QtyItem>30</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>5687.000000</PrcItem> 
+  <MontoItem>170610</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>18</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000246</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Cubidog 30 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=150</DscItem> 
+  <QtyItem>150</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>12540.000000</PrcItem> 
+  <MontoItem>1881000</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>19</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000247</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Cubidog 8 x 2,5 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=20</DscItem> 
+  <QtyItem>20</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>13596.000000</PrcItem> 
+  <MontoItem>271920</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>20</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000289</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Sabrokan Adulto 6 x 3 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=90</DscItem> 
+  <QtyItem>90</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>12197.000000</PrcItem> 
+  <MontoItem>1097730</MontoItem> 
+  </Detalle>
+<Detalle>
+  <NroLinDet>21</NroLinDet> 
+<CdgItem>
+  <TpoCodigo>INT1</TpoCodigo> 
+  <VlrCodigo>3000147</VlrCodigo> 
+  </CdgItem>
+  <NmbItem>Acuenta Adulto 10 kg</NmbItem> 
+  <DscItem>D1=|D2=|D3=|R1=|R2=|KG=180</DscItem> 
+  <QtyItem>180</QtyItem> 
+  <UnmdItem>KG</UnmdItem> 
+  <PrcItem>3265.000000</PrcItem> 
+  <MontoItem>587700</MontoItem> 
+  </Detalle>
+<Adicional>
+<NodosA>
+  <A1>D Canje</A1> 
+  <A2>/0080123243</A2> 
+  <A5>TB 7911/0000033260</A5> 
+  <A6>CH06 Sucursal Osorno</A6> 
+  <A7>2.808</A7> 
+  <A9>Peñaflor/RM-Metropolitana</A9> 
+  <A11>Balmaceda 2051, Malloco</A11> 
+  <A12>ANGULO TUCHIE ALEJANDRO E</A12> 
+  <A16>2.808</A16> 
+  <A17>12-09-2013</A17> 
+  <A18>NO CONSTITUYE VENTA, SÓLO TRASLADO</A18> 
+  <A19>9000125</A19> 
+  <A20>Osorno</A20> 
+  </NodosA>
+  </Adicional>
+	</Documento>
+</DTE>

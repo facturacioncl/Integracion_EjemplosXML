@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<DTE version="1.0">
+			<Documento ID="F1T33">
+				<Encabezado>
+					<IdDoc>
+						<TipoDTE>61</TipoDTE>
+						<Folio>80</Folio>
+						<FchEmis>2011-03-01</FchEmis>
+						<FchVenc>2011-03-08</FchVenc>
+						<MntBruto>1</MntBruto>
+					</IdDoc>
+					<Emisor>
+						<RUTEmisor>76578110-8</RUTEmisor>
+						<RznSoc>SERVICIO TECNICO GMB LTDA.</RznSoc>
+						<GiroEmis>AUTOMOTRIZ</GiroEmis>
+						<Acteco>502080</Acteco>
+						<DirOrigen>SALVADOR 1406 PROVIDENCIA</DirOrigen>
+						<CmnaOrigen>SANTIAGO</CmnaOrigen>
+						<CiudadOrigen>SANTIAGO</CiudadOrigen>
+					</Emisor>
+					<Receptor>
+						<RUTRecep>10982363-5</RUTRecep>
+						<RznSocRecep>JOSE LUIS LOPEZ VERA</RznSocRecep>
+						<GiroRecep>PARTICULAR</GiroRecep>
+						<Contacto></Contacto>
+						<DirRecep>AVDA. SUECIA 1223 DPTO.1102</DirRecep>
+						<CmnaRecep>PROVIDENCIA</CmnaRecep>
+						<CiudadRecep>SANTIAGO</CiudadRecep>
+					</Receptor>
+					<Totales>
+						<MntNeto>1437</MntNeto>
+						<MntExe>0</MntExe>
+						<TasaIVA>19</TasaIVA>
+						<IVA>273</IVA>
+						<MntTotal>1710</MntTotal>
+					</Totales>
+				</Encabezado>
+				<Detalle>
+					<NroLinDet>1</NroLinDet>
+					<CdgItem>
+						<TpoCodigo>INT1</TpoCodigo>
+						<VlrCodigo>998&#176;11030669C</VlrCodigo>
+					</CdgItem>
+					<NmbItem>AMPOLLETA 12V-10W CHICA</NmbItem>
+					<QtyItem>2</QtyItem>
+					<UnmdItem>UN</UnmdItem>
+					<PrcItem>855</PrcItem>
+					<DescuentoPct>0.06</DescuentoPct>
+					<DescuentoMonto>1</DescuentoMonto>
+					<MontoItem>1710</MontoItem>
+				</Detalle>
+				<DscRcgGlobal>
+					<NroLinDR>1</NroLinDR>
+					<TpoMov>D</TpoMov>
+					<GlosaDR>Descuento</GlosaDR>
+					<TpoValor>$</TpoValor>
+					<ValorDR>273</ValorDR>
+				</DscRcgGlobal>
+				<Adicional>
+					<NodosA>
+						<A1>3624333</A1>
+						<A2>ROBERTO MONTANER L.</A2>
+						<A3>SALVADOR</A3>
+						<A4>5554</A4>
+						<A5> </A5>
+						<A6>DEVOLUCION DE MERCADERIAS CORRESPONDIENTE ABOLETA N&#186; 30123,
+DE FECHA 01/03/2011
+</A6>
+					</NodosA>
+				</Adicional>
+				<Referencia>
+					<NroLinRef>1</NroLinRef>
+					<TpoDocRef>35</TpoDocRef>
+					<FolioRef>30123</FolioRef>
+					<FchRef>2011-03-01</FchRef>
+					<CodRef>1</CodRef>
+					<RazonRef>NOTA DE CREDITO POR DEVOLUCION</RazonRef>
+				</Referencia>
+			</Documento>
+		</DTE>

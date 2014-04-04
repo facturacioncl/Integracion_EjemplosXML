@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones>
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>111</TipoDTE>
+				<Folio>4</Folio>
+				<FchEmis>2007-05-02</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76019918-4</RUTEmisor>
+				<RznSoc>DESARROLLO, COMERCIALIZACI&#211;N DE PROGRAMAS Y APLICACIONES INFORM&#193;TICAS</RznSoc>
+				<GiroEmis>Prensa</GiroEmis>
+				<Acteco>0726</Acteco>
+				<DirOrigen>Alc&#225;ntara 200 Piso 6</DirOrigen>
+				<CmnaOrigen>Las Condes</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<CdgIntRecep>B85162071</CdgIntRecep>
+				<RznSocRecep>UNIDAD EDITORIAL PRENSA DEPORTIVA, S.L.U.</RznSocRecep>
+				<Extranjero>
+					<Nacionalidad>517</Nacionalidad>
+				</Extranjero>
+				<GiroRecep>Prensa</GiroRecep>
+				<DirRecep>Avda. San Luis, n. 25</DirRecep>
+				<CmnaRecep>MADRID</CmnaRecep>
+				<CiudadRecep>MADRID</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<TpoMoneda>PESO</TpoMoneda>
+				<MntExe>178500</MntExe>
+				<MntTotal>178500</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>EURO</TpoMoneda>
+				<TpoCambio>842.09</TpoCambio>
+				<MntExeOtrMnda>211.9726</MntExeOtrMnda>
+				<MntTotOtrMnda>211.9726</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>MT0166</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>LICENCIA CALL WINDOWS SERVER 2003 ESP</NmbItem>
+			<DscItem>DESCRIPCIÓN LARGA DEL PRODUCTO, SOPORTA HASTA 1000 CARACTERES</DscItem>
+			<QtyItem>10</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>15000</PrcItem>
+			<MontoItem>150000</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>112</TpoDocRef>
+			<FolioRef>50</FolioRef>
+			<FchRef>2007-05-02</FchRef>
+			<CodRef>1</CodRef>
+			<RazonRef>Anula Documento Ref.</RazonRef>
+		</Referencia>
+	</Exportaciones>
+</DTE>

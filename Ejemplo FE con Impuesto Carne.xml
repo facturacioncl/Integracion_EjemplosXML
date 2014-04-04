@@ -1,0 +1,53 @@
+<DTE version="1.0">
+	<Documento ID="F80T33">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>80</Folio>
+				<FchEmis>2011-05-16</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>1-9</RUTEmisor>
+				<RznSoc>COMERCIALIZADORA DEMO LIMITADA</RznSoc>
+				<GiroEmis>Comercializadora de productos al detalle</GiroEmis>
+				<Telefono>6730769-6730770</Telefono>
+				<Acteco>503000</Acteco>
+				<DirOrigen>Av. Apoquindo 1000</DirOrigen>
+				<CmnaOrigen>PROVIDENCIA</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>77574330-1</RUTRecep>
+				<RznSocRecep>SERVICIOS Y TECNOLOGIA LIMITADA</RznSocRecep>
+				<GiroRecep>COMPRA Y VENTA DE EQUIPOS ELECTRONICOS</GiroRecep>
+				<DirRecep>Ahumada 123</DirRecep>
+				<CmnaRecep>SANTIAGO</CmnaRecep>
+				<CiudadRecep>SANTIAGO</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>37500</MntNeto>
+				<TasaIVA>19</TasaIVA>
+				<IVA>7125</IVA>
+				<ImptoReten>
+					<TipoImp>18</TipoImp>
+					<TasaImp>5</TasaImp>
+					<MontoImp>1875</MontoImp>
+				</ImptoReten>
+				<MntTotal>46500</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>CARNE2</VlrCodigo>
+			</CdgItem>
+			<NmbItem>CARNE con Impuesto</NmbItem>
+			<QtyItem>15</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>2500</PrcItem>
+			<CodImpAdic>18</CodImpAdic>
+			<MontoItem>37500</MontoItem>
+		</Detalle>
+	</Documento>
+</DTE>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<LibroCompraVenta>
+	<EnvioLibro ID="LC201206">
+		<Caratula>
+			<RutEmisorLibro>99577220-5</RutEmisorLibro>
+			<RutEnvia>6097107-2</RutEnvia>
+			<PeriodoTributario>2011-05</PeriodoTributario>
+			<FchResol>2010-01-15</FchResol>
+			<NroResol>12</NroResol>
+			<TipoOperacion>COMPRA</TipoOperacion>
+			<TipoLibro>MENSUAL</TipoLibro>
+			<TipoEnvio>TOTAL</TipoEnvio>
+		</Caratula>
+		<ResumenPeriodo>
+			<TotalesPeriodo>
+				<TpoDoc>46</TpoDoc>
+				<TpoImp>1</TpoImp>
+				<TotDoc>2</TotDoc>
+				<TotMntExe>0</TotMntExe>
+				<TotMntNeto>213176</TotMntNeto>
+				<TotMntIVA>40503</TotMntIVA>
+				<TotOtrosImp>
+					<CodImp>48</CodImp>
+					<TotMntImp>27442</TotMntImp>
+				</TotOtrosImp>
+				<TotMntTotal>226237</TotMntTotal>
+			</TotalesPeriodo>
+		</ResumenPeriodo>
+		<Detalle>
+			<TpoDoc>46</TpoDoc>
+			<NroDoc>1920</NroDoc>
+			<Operacion>1</Operacion>
+			<TpoImp>1</TpoImp>
+			<TasaImp>19</TasaImp>
+			<NumInt>1620</NumInt>
+			<FchDoc>2011-02-02</FchDoc>
+			<RUTDoc>78572860-2</RUTDoc>
+			<RznSoc>QUIMICA DEL SUR Y CIA.LTDA.</RznSoc>
+			<MntNeto>196016</MntNeto>
+			<MntIVA>37243</MntIVA>
+			<OtrosImp>
+				<CodImp>48</CodImp>
+				<TasaImp>14</TasaImp>
+				<MntImp>27442</MntImp>
+			</OtrosImp>
+			<MntTotal>205817</MntTotal>
+		</Detalle>
+		<Detalle>
+			<TpoDoc>46</TpoDoc>
+			<NroDoc>519442</NroDoc>
+			<Operacion>1</Operacion>
+			<TpoImp>1</TpoImp>
+			<TasaImp>19</TasaImp>
+			<NumInt>1678</NumInt>
+			<FchDoc>2011-05-02</FchDoc>
+			<RUTDoc>81290800-6</RUTDoc>
+			<RznSoc>COMPAÑÍA AGROPECUARIA COPEVAL S.A.</RznSoc>
+			<MntNeto>17160</MntNeto>
+			<MntIVA>3260</MntIVA>
+			<MntTotal>20420</MntTotal>
+		</Detalle>
+	</EnvioLibro>
+</LibroCompraVenta>

@@ -1,0 +1,63 @@
+<DTE version="1.0">
+	<Documento ID="F66000T33">
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>33</TipoDTE>
+				<Folio>66000</Folio>
+				<FchEmis>2013-01-29</FchEmis>
+				<FchVenc>2013-03-01</FchVenc>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>81805700-8</RUTEmisor>
+				<RznSoc>COOPERATIVA AGRICOLA CONTROL PISQUERO DE ELQUI Y </RznSoc>
+				<GiroEmis>Compra y venta de uva, Licores e insumos Agrícolas, Maquinaria Agrícola</GiroEmis>
+				<Telefono>053448178</Telefono>
+				<Acteco>512130</Acteco>
+				<DirOrigen>Av.La Chimba Nº 661 - Ovalle</DirOrigen>
+				<CmnaOrigen>LA SERENA</CmnaOrigen>
+				<CiudadOrigen>LA SERENA</CiudadOrigen>
+				<CdgVendedor>014-Bombero Ovalle </CdgVendedor>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>79529940-8</RUTRecep>
+				<RznSocRecep>SOC. AGRIC. LOS PRIMOS LTDA.</RznSocRecep>
+				<GiroRecep>COMERCIAL</GiroRecep>
+				<Contacto>Fono:620357</Contacto>
+				<DirRecep>F. LA PALMA CHA¾ARAL ALTO</DirRecep>
+				<CmnaRecep>MONTE PATRIA</CmnaRecep>
+				<CiudadRecep>MONTE PATRIA</CiudadRecep>
+			</Receptor>
+			<Totales>
+				<MntNeto>29422</MntNeto>
+				<MntExe>0</MntExe>
+				<TasaIVA>19</TasaIVA>
+				<IVA>5590</IVA>
+				<ImptoReten>
+					<TipoImp>28</TipoImp>
+					<TasaImp>1.5</TasaImp>
+					<MontoImp>3729</MontoImp>
+				</ImptoReten>
+				<MntTotal>38741</MntTotal>
+			</Totales>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>1100003</VlrCodigo>
+			</CdgItem>
+			<NmbItem>Petroleo  Diesel   Ov.</NmbItem>
+			<QtyItem>62.135</QtyItem>
+			<UnmdItem>LITR</UnmdItem>
+			<PrcItem>473.524</PrcItem>
+			<CodImpAdic>28</CodImpAdic>
+			<MontoItem>29422</MontoItem>
+		</Detalle>
+		<Referencia>
+			<NroLinRef>1</NroLinRef>
+			<TpoDocRef>801</TpoDocRef>
+			<FolioRef>10097</FolioRef>
+			<FchRef>2013-01-29</FchRef>
+		</Referencia>
+	</Documento>
+</DTE>

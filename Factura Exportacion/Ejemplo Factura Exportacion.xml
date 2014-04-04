@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DTE version="1.0">
+	<Exportaciones>
+		<Encabezado>
+			<IdDoc>
+				<TipoDTE>110</TipoDTE>
+				<Folio>100001</Folio>
+				<FchEmis>2007-05-02</FchEmis>
+			</IdDoc>
+			<Emisor>
+				<RUTEmisor>76019918-4</RUTEmisor>
+				<RznSoc>DESARROLLO, COMERCIALIZACI&#211;N DE PROGRAMAS Y APLICACIONES INFORM&#193;TICAS</RznSoc>
+				<GiroEmis>Prensa</GiroEmis>
+				<Acteco>0726</Acteco>
+				<DirOrigen>Alc&#225;ntara 200 Piso 6</DirOrigen>
+				<CmnaOrigen>Las Condes</CmnaOrigen>
+				<CiudadOrigen>SANTIAGO</CiudadOrigen>
+			</Emisor>
+			<Receptor>
+				<RUTRecep>55555555-5</RUTRecep>
+				<CdgIntRecep>B85162071</CdgIntRecep>
+				<RznSocRecep>UNIDAD EDITORIAL PRENSA DEPORTIVA, S.L.U.</RznSocRecep>
+				<Extranjero>
+					<Nacionalidad>517</Nacionalidad>
+				</Extranjero>
+				<GiroRecep>Prensa</GiroRecep>
+				<DirRecep>Avda. San Luis, n. 25</DirRecep>
+				<CmnaRecep>MADRID</CmnaRecep>
+				<CiudadRecep>MADRID</CiudadRecep>
+			</Receptor>
+			<Transporte>
+				<Aduana>
+					<CodModVenta>1</CodModVenta>
+					<CodClauVenta>1</CodClauVenta>
+					<TotClauVenta>1000.00</TotClauVenta>
+					<CodViaTransp>99</CodViaTransp>
+					<NombreTransp>Nombre del medio de transporte</NombreTransp>
+					<RUTCiaTransp>1-9</RUTCiaTransp>
+					<NomCiaTransp>Nombre CIA Transportadora</NomCiaTransp>
+					<IdAdicTransp>STRING 20</IdAdicTransp>
+					<Booking>STRING 20</Booking>
+					<Operador>COD-OPERADOR</Operador>
+					<CodPtoEmbarque>9999</CodPtoEmbarque>
+					<IdAdicPtoEmb>ID-PTO-EMBARQUE</IdAdicPtoEmb>
+					<CodPtoDesemb>9999</CodPtoDesemb>
+					<IdAdicPtoDesemb>ID-PTO-DESEMBARQUE</IdAdicPtoDesemb>
+					<Tara>9999999</Tara>
+					<CodUnidMedTara>99</CodUnidMedTara>
+					<PesoBruto>99999999.99</PesoBruto>
+					<CodUnidPesoBruto>99</CodUnidPesoBruto>
+					<PesoNeto>99999999.99</PesoNeto>
+					<CodUnidPesoNeto>99</CodUnidPesoNeto>
+					<TotItems>1</TotItems>
+					<TotBultos>2</TotBultos>
+					<TipoBultos>
+						<CodTpoBultos>999</CodTpoBultos>
+						<CantBultos>9999999999</CantBultos>
+						<Marcas>MARCA STRING 255</Marcas>
+						<IdContainer>STRING 25</IdContainer>
+						<Sello>STRING 20</Sello>
+						<EmisorSello>STRING 70</EmisorSello>
+					</TipoBultos>
+					<TipoBultos>
+						<CodTpoBultos>998</CodTpoBultos>
+						<CantBultos>9999999999</CantBultos>
+						<Marcas>MARCA STRING 255</Marcas>
+						<IdContainer>STRING 25</IdContainer>
+						<Sello>STRING 20</Sello>
+						<EmisorSello>STRING 70</EmisorSello>
+					</TipoBultos>
+					<MntFlete>99</MntFlete>
+					<MntSeguro>999</MntSeguro>
+					<CodPaisRecep>999</CodPaisRecep>
+					<CodPaisDestin>999</CodPaisDestin>
+				</Aduana>
+			</Transporte>
+			<Totales>
+				<TpoMoneda>PESO</TpoMoneda>
+				<MntExe>178500</MntExe>
+				<MntTotal>178500</MntTotal>
+			</Totales>
+			<OtraMoneda>
+				<TpoMoneda>EURO</TpoMoneda>
+				<TpoCambio>842.09</TpoCambio>
+				<MntExeOtrMnda>211.9726</MntExeOtrMnda>
+				<MntTotOtrMnda>211.9726</MntTotOtrMnda>
+			</OtraMoneda>
+		</Encabezado>
+		<Detalle>
+			<NroLinDet>1</NroLinDet>
+			<CdgItem>
+				<TpoCodigo>INT1</TpoCodigo>
+				<VlrCodigo>MT0166</VlrCodigo>
+			</CdgItem>
+			<IndExe>1</IndExe>
+			<NmbItem>LICENCIA CALL WINDOWS SERVER 2003 ESP</NmbItem>
+			<DscItem>DESCRIPCIÓN LARGA DEL PRODUCTO, SOPORTA HASTA 1000 CARACTERES</DscItem>
+			<QtyItem>10</QtyItem>
+			<UnmdItem>UN</UnmdItem>
+			<PrcItem>17850</PrcItem>
+			<MontoItem>178500</MontoItem>
+		</Detalle>
+	</Exportaciones>
+</DTE>
